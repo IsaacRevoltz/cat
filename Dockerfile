@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:slim-buster
+FROM IsaacRevoltz/catuserbot:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/IsaacRevoltz/cat.git /root/userbot
