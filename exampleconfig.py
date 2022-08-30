@@ -22,4 +22,4 @@ class Development(Config):
     # External plugins repo
     EXTERNAL_REPO = "https://github.com/IsaacRevoltz/CatPlugin"
     # if you need badcat plugins set "True"
-    BADCAT = "False"
+    BADCAT = "True"
